@@ -10,8 +10,19 @@ public class Calculator{
     return num1-num2;
   }
   
+
+  public float mod(int num){
+    // yet to be implemented.
+    return 0.0f;
+  }
+  
+  public float convertToCelcius(int temperature){
+    // yet to be implemented.
+    return 0.0f;
+  }
   public float divide(float num1, float num2){
     return num1/num2;
+
   }
   
 }
